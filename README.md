@@ -1,8 +1,8 @@
-#tinyML audio classification
+# tinyML audio classification
 
-##Requirements
+## Requirements
 Below is a list of all the requirements you'll need to complete this project.
-###a) Hardware requirements
+### a) Hardware requirements
 * Raspberry Pi Pico
 * Adafruit PDM MEMS Microphone Breakout
 * Half size of full size breadboard
@@ -12,7 +12,7 @@ Below is a list of all the requirements you'll need to complete this project.
 
 ![Hardware requirements image](img/hardware.jpg "Hardware")
 
-###b) Software requirements
+### b) Software requirements
 * [WebUSB API](https://wicg.github.io/webusb/) enabled browser like Google Chrome
 * `Note for Windows` If you are using Windows you must install WinUSB drivers in order to use WebUSB, you can do
 so by following the instructions found [here](https://github.com/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico/blob/main/windows.md).
