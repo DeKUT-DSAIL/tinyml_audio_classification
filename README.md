@@ -31,7 +31,7 @@ onto you RP Pico. Follow the steps below. (we would assume you already have a go
 * Visit [Google Colaboratory](https://colab.research.google.com/)
 * In the top left corner click `File` then `open notebook`
 * click the `GitHub` tab in the new window
-* Paste in this [notebook url](url.com) and click enter
+* Paste in this [Notebook URL](https://github.com/DeKUT-DSAIL/tinyml_audio_classification/blob/main/ML_Audio_Classifier_for_RP_Pico.ipynb) and click enter
 * on the list of paths that appear, click the `ML_Audio_Classifier_for_Pico.ipnyb`
 * You will be redirected to the notebook in colab
 * Follow the steps in the notebook
